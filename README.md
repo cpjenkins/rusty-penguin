@@ -1,0 +1,2 @@
+# rusty
+A rust project.
